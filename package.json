@@ -1,6 +1,6 @@
 {
   "name": "http-get-shim",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "HTTP(S) get shim for easier gets",
   "main": "index.js",
   "repository": {
