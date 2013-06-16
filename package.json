@@ -1,0 +1,20 @@
+{
+  "name": "http-get-shim",
+  "version": "0.0.1",
+  "description": "HTTP(S) get shim for easier gets",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gildean/node-http-get-shim.git"
+  },
+  "keywords": [
+    "HTTP",
+    "HTTPS",
+    "GET"
+  ],
+  "author": "Olli K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gildean/node-http-get-shim/issues"
+  }
+}
